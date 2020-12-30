@@ -6,6 +6,8 @@
 
 body {
   font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
 }
 
 div {
@@ -31,6 +33,12 @@ button {
   margin-top: 15px;
   font-weight: bold;
   font-size: 14px;
+}
+
+div li span {
+  padding: 10px;
+  background-color: #f0f0f0;
+  width: 300px;
 }
 
 div li button {

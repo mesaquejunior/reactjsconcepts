@@ -8,7 +8,7 @@
 
 ##  :rocket: About the challenge
 
-The challenge goal is to create a React Application that Loads, Adds and Removes repositories on API create on previous challenge: [Challenge 2: NodeJS Concepts](https://github.com/mesaquejunior/nodejsconcepts)
+The challenge goal is to create a React Application that Loads, Adds and Removes repositories on API created on previous challenge: [Challenge 2: NodeJS Concepts](https://github.com/mesaquejunior/nodejsconcepts)
 
 - Create a HTML list with the title field of repositories
 - Add a repository on API and on Front-end application using a HTML button
